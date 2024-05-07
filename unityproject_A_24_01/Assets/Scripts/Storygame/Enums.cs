@@ -46,7 +46,7 @@ namespace STORYGAME  //이름 충돌 방지
 
         public int currentHpPoint;
         public int currentSpPoint;
-        public int currentHXpPoint;
+        public int currentXpPoint;
 
         //기본 스텍 설정
         public int strength;         //STR
