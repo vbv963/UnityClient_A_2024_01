@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NewStory 30
   m_EditorClassIdentifier: 
   storyNumber: 0
-  MainImage: {fileID: 0}
+  MainImage: {fileID: 2800000, guid: 35fda0e69c76419458856565082927a7, type: 3}
   storytype: 0
   storyDone: 0
   storyText: 
