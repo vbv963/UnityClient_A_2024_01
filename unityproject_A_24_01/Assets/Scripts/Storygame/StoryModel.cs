@@ -50,7 +50,7 @@ public class StoryModel : ScriptableObject
             CheckCHA,
         }
 
-        public EventType eventtype;
+        public EventType eventType;
          
         public Result[] suceessResult;      //선택지에 대한 성공 결과 배열
         public Result[] failResults;        //선택지에 대한 실패 결과 배열
